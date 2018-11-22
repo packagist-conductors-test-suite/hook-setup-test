@@ -1,5 +1,5 @@
 {
-    "name": "packagist-conductors/bitbucket-hook-setup-test",
+    "name": "packagist-conductors/github-hook-setup-test",
     "type": "project",
     "require": {}
 }
