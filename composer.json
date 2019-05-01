@@ -1,5 +1,7 @@
 {
     "name": "packagist-conductors/github-hook-setup-test",
+    "description": "Package to test the automatic webhook setup with GitHub",
+    "keywords": ["test-suite"],
     "type": "project",
     "require": {}
 }
